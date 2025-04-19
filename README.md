@@ -1,4 +1,4 @@
-# UFC Web Scraper / Elo Calculator
+# UFC Fight History ETL Pipeline / Elo Calculator
 
 I applied the Chess Elo formula to all UFC fights to find out who the best actually is! FYI it's currently **Islam Makhachev**, but of course this is subject to change.
 
