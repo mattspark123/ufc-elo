@@ -4,7 +4,7 @@ I applied the Chess Elo formula to all UFC fights to find out who the best actua
 
 I wasn't able to find good, all-encompassing datasets on Kaggle so I built my own webscraper to iteratively parse Wikipedia's UFC events pages to build a fresh historical fight record.
 
-Then, I use 'pandas' to iterate through this parsed data and construct a dataframe, from which I am able to apply the formula, on top of other metrics I'm tracking.
+Then, I use `pandas` to iterate through this parsed data and construct a dataframe, from which I am able to apply the formula, on top of other metrics I'm tracking.
 
 The goal here wasn't to make a super-accurate betting assistant, it was more of an exercise in building an ETL Pipeline and then working with the data afterwards for fun.
 
