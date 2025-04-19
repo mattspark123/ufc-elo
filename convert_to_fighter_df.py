@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 
-df = pd.read_csv('processed_wikipedia_df.csv')
+df = pd.read_csv('data\\processed_wikipedia_df.csv')
 df = df.drop(df.columns[:2], axis =1)
 
 
@@ -26,7 +26,7 @@ df_combined.reset_index(inplace = True)
 
 column_order=['Date', 'Event', 'Fighter', 'Opponent', 'Streak', 'Pre_Elo', 'Post_Elo', 'WeightClass', 'Result', 'Method', 'Method_Notes', 'Round', 'Time', 'ConvertedTime', 'isTitleBout', 'K_Value','FightCount']
 df_combined=df_combined[column_order]
-df_combined.to_csv('fighter_df.csv', index=True)
+df_combined.to_csv('data\\fighter_df.csv', index=True)
 
 
 

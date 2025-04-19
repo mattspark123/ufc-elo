@@ -1,10 +1,10 @@
-import ufcelo_scraped as elo
+import elo_functions as elo
 import numpy as np
 import pandas as pd
 import csv
 from rapidfuzz import fuzz, process
 
-df = pd.read_csv('elo_list_output.csv')
+df = pd.read_csv('data\\elo_list_output.csv')
 
 entry1 = input('Enter first fighter\n')
 entry2 = input('Enter second fighter\n')

@@ -1,6 +1,5 @@
 import os
 
-
 #Open the file, read last line to see where we left off
 def findLastLine(filename):
 	if os.path.exists(filename) and os.path.getsize(filename) > 1:

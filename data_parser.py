@@ -13,8 +13,6 @@ import find_files as ff
 URL = 'https://en.wikipedia.org/wiki/List_of_UFC_events'
 page = requests.get(URL)
 
-#print(page.text)
-
 soup = BeautifulSoup(page.content,'html.parser')
 
 #Find table for all events on UFC Events page
@@ -38,7 +36,7 @@ eventDates.reverse()
 allFights = []
 
 #Open the file, read last line to see where we left off
-last_line = ff.findLastLine('raw_wikipedia_parsed_df.csv')
+last_line = ff.findLastLine('data\\raw_wikipedia_parsed_df.csv')
 
 #Set point to continue, or from beginning if it file doesn't exist or something
 if last_line in links and last_line != links[-1]:
@@ -127,12 +125,12 @@ df = pd.DataFrame(allFights)
 
 #check to see whether to overwrite entirely, or to append new info
 if last_event_index == 0:
-	df.to_csv('raw_wikipedia_parsed_df.csv')
+	df.to_csv('data\\raw_wikipedia_parsed_df.csv')
 else:
-	ff.deleteLastLine('raw_wikipedia_parsed_df.csv')
-	df.to_csv('raw_wikipedia_parsed_df.csv',mode='a',header = False)
+	ff.deleteLastLine('data\\raw_wikipedia_parsed_df.csv')
+	df.to_csv('data\\raw_wikipedia_parsed_df.csv',mode='a',header = False)
 
-with open('raw_wikipedia_parsed_df.csv', 'a') as file:
+with open('data\\raw_wikipedia_parsed_df.csv', 'a') as file:
     file.write(links[-1]) 
 
 

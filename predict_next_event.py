@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import sys
-import ufcelo_scraped as elo
+import elo_functions as elo
 
 sys.stdout.reconfigure(encoding='utf-8')
 
@@ -34,7 +34,7 @@ for row in fightTable.find_all('tr')[2:]:
 	fighterArray.append(nodeArray)
 #print(fightTable.find_all('tr')[2])
 
-df = pd.read_csv('elo_list_output.csv')
+df = pd.read_csv('data\\elo_list_output.csv')
 
 for i,row in enumerate(fighterArray):
 	print('Fight',i+1)

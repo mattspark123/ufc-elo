@@ -1,4 +1,4 @@
-import ufcelo_scraped as elo
+import elo_functions as elo
 import numpy as np
 import pandas as pd
 import csv
@@ -6,9 +6,6 @@ import sys
 from datetime import datetime,date
 
 sys.stdout.reconfigure(encoding='utf-8')
-
-#,Event,WeightClass,Winner,Result,Loser,Method,Method_Notes,Round,Time,isTitleBout
-#7643,/wiki/UFC_300,Light Heavyweight,Alex Pereira,def,Jamahal Hill,KO,KO (punches),1,3:14,True
 
 df = pd.read_csv("data\\raw_wikipedia_parsed_df.csv",skipfooter=1, engine='python')
 df['Winner'] = df['Winner'].str.strip().str.lower().str.title() #clean minor name variations/typos
@@ -69,7 +66,7 @@ for index,row in df.iterrows():
     df.at[index,'loserFightCount'] = elo_dict[row['Loser']]['total_fights']
 
 #export DF to csv
-df.to_csv('processed_wikipedia_df.csv') 
+df.to_csv('data\\processed_wikipedia_df.csv') 
 
 
 # Apply Elo Decay Before Sorting
@@ -104,7 +101,7 @@ for fighter, data in sorted_dict.items():
         break
 
 # Write Sorted Elo Data to CSV
-with open('elo_list_output.csv', 'w', encoding='utf-8') as csvfile:
+with open('data\\elo_list_output.csv', 'w', encoding='utf-8') as csvfile:
     csvfile.write("Name,Elo,WinStreak,LastFight\n")
     
     for key, value in sorted_dict.items():
