@@ -36,7 +36,7 @@ for row in fightTable.find_all('tr')[2:]:
 
 df = pd.read_csv('data\\elo_list_output.csv')
 
-with open('data\\next_event_predictions.txt', 'w') as f_out:
+with open('data\\next_event_predictions.txt', 'w',encoding='utf-8') as f_out:
     for i, row in enumerate(fighterArray):
         f_out.write(f'Fight {i+1}\n')
         print(f'Fight {i+1}')
