@@ -1,44 +1,50 @@
 Fight 1
-Belal Muhammad (c) Wins: 68.485% / -220.0
-Jack Della Maddalena Wins: 31.515% / 320.0
+Gilbert Burns Wins: 47.936% / 210.0
+Michael Morales Wins: 52.064% / -110.0
 
 Fight 2
-Valentina Shevchenko (c) Wins: 56.093% / -130.0
-Manon Fiorot Wins: 43.907% / 230.0
+Rodolfo Bellato Wins: 50.562% / -100.0
+Paul Craig Wins: 49.438% / 200.0
 
 Fight 3
-José Aldo Wins: 55.642% / -130.0
-Aiemann Zahabi Wins: 44.358% / 230.0
+Sodiq Yusuff Wins: 49.505% / 200.0
+Mairon Santos Wins: 50.495% / -100.0
 
 Fight 4
-Alexa Grasso Wins: 46.229% / 220.0
-Natália Silva Wins: 53.771% / -120.0
+Dustin Stoltzfus Wins: 32.193% / 310.0
+Nursulton Ruziboev Wins: 67.807% / -210.0
 
 Fight 5
-Mike Malott Wins: 58.564% / -140.0
-Charles Radtke Wins: 41.436% / 240.0
+Julian Erosa Wins: 54.18% / -120.0
+Melquizael Costa Wins: 45.82% / 220.0
 
 Fight 6
-Jéssica Andrade Wins: 45.66% / 220.0
-Jasmine Jasudavicius Wins: 54.34% / -120.0
+Matheus Camilo is making their debut in the UFC
+Gabriel Green Wins: 38.759% / 260.0
+Matheus Camilo Wins: 61.241% / -160.0
 
 Fight 7
-Modestas Bukauskas Wins: 51.226% / -110.0
-Ion Cuțelaba Wins: 48.774% / 210.0
+Jared Gordon Wins: 46.185% / 220.0
+Thiago Moisés Wins: 53.815% / -120.0
 
 Fight 8
-Navajo Stirling Wins: 60.949% / -160.0
-Ivan Erslan Wins: 39.051% / 260.0
+Yadier Del Valle is making their debut in the UFC
+Yadier del Valle Wins: 62.793% / -170.0
+Connor Matthews Wins: 37.207% / 270.0
 
 Fight 9
-Marc-André Barriault Wins: 46.868% / 210.0
-Bruno Silva Wins: 53.132% / -110.0
+Luana Santos Wins: 51.735% / -110.0
+Tainara Lisboa Wins: 48.265% / 210.0
 
 Fight 10
-Daniel Santos Wins: 51.428% / -110.0
-Lee Jeong-yeong Wins: 48.572% / 210.0
+Elise Reed Wins: 37.222% / 270.0
+Denise Gomes Wins: 62.778% / -170.0
 
 Fight 11
-Brad Katona Wins: 52.056% / -110.0
-Bekzat Almakhan Wins: 47.944% / 210.0
+Park Hyun-sung Wins: 54.535% / -120.0
+Carlos Hernandez Wins: 45.465% / 220.0
+
+Fight 12
+Tecia Pennington Wins: 58.86% / -140.0
+Luana Pinheiro Wins: 41.14% / 240.0
 
