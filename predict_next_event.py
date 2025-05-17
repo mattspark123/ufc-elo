@@ -3,6 +3,8 @@ import pandas as pd
 import requests
 import sys
 import elo_functions as elo
+import os
+import re
 
 sys.stdout.reconfigure(encoding='utf-8')
 
@@ -36,7 +38,13 @@ for row in fightTable.find_all('tr')[2:]:
 
 df = pd.read_csv('data\\elo_list_output.csv')
 
-with open('data\\next_event_predictions.txt', 'w',encoding='utf-8') as f_out:
+event = eventLink[6:] + '.txt'
+event = re.sub(r'[<>:"/\\|?*]', '', event)
+
+file_path = os.path.join('data','predictions',event)
+
+print(file_path)
+with open(file_path, 'w',encoding='utf-8') as f_out:
     for i, row in enumerate(fighterArray):
         f_out.write(f'Fight {i+1}\n')
         print(f'Fight {i+1}')
