@@ -1,0 +1,52 @@
+Fight 1
+Kamaru Usman Wins: 52.638% / -110.0
+Joaquin Buckley Wins: 47.362% / 210.0
+
+Fight 2
+Rose Namajunas Wins: 56.094% / -130.0
+Miranda Maverick Wins: 43.906% / 230.0
+
+Fight 3
+Edmen Shahbazyan Wins: 37.215% / 270.0
+Andre Petroski Wins: 62.785% / -170.0
+
+Fight 4
+Cody Garbrandt Wins: 49.133% / 200.0
+Raoni Barcelos Wins: 50.867% / -100.0
+
+Fight 5
+Mansur Abdul-Malik Wins: 59.334% / -150.0
+Cody Brundage Wins: 40.666% / 250.0
+
+Fight 6
+Alonzo Menifield Wins: 56.049% / -130.0
+Oumar Sy Wins: 43.951% / 230.0
+
+Fight 7
+Paul Craig Wins: 49.435% / 200.0
+Rodolfo Bellato Wins: 50.565% / -100.0
+
+Fight 8
+Michael Chiesa Wins: 78.318% / -360.0
+Court McGee Wins: 21.682% / 460.0
+
+Fight 9
+Malcolm Wellmaker Wins: 66.894% / -200.0
+Kris Moutinho Wins: 33.106% / 300.0
+
+Fight 10
+Cody Durden Wins: 58.829% / -140.0
+Jose Ochoa Wins: 41.171% / 240.0
+
+Fight 11
+Ricky Simón Wins: 67.281% / -210.0
+Cameron Smotherman Wins: 32.719% / 310.0
+
+Fight 12
+Philip Rowe Wins: 52.274% / -110.0
+Ange Loosa Wins: 47.726% / 210.0
+
+Fight 13
+Jamey-Lyn Horth Wins: 49.027% / 200.0
+Vanessa Demopoulos Wins: 50.973% / -100.0
+

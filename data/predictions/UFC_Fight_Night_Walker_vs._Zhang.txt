@@ -1,0 +1,49 @@
+Fight 1
+Johnny Walker Wins: 43.214% / 230.0
+Zhang Mingyang Wins: 56.786% / -130.0
+
+Fight 2
+Brian Ortega Wins: 31.928% / 310.0
+Aljamain Sterling Wins: 68.072% / -210.0
+
+Fight 3
+Sergei Pavlovich Wins: 52.395% / -110.0
+Waldo Cortes-Acosta Wins: 47.605% / 210.0
+
+Fight 4
+Su Mudaerji Wins: 52.19% / -110.0
+Kevin Borjas Wins: 47.81% / 210.0
+
+Fight 5
+Taiyilake Nueraji is making their debut in the UFC
+Taiyilake Nueraji Wins: 63.798% / -180.0
+Kiefer Crosbie Wins: 36.202% / 280.0
+
+Fight 6
+Maheshate Hayisaer Wins: 53.404% / -110.0
+Gauge Young Wins: 46.596% / 210.0
+
+Fight 7
+Lone'er Kavanagh Wins: 51.701% / -110.0
+Charles Johnson Wins: 48.299% / 210.0
+
+Fight 8
+Rong Zhu Wins: 57.524% / -140.0
+Austin Hubbard Wins: 42.476% / 240.0
+
+Fight 9
+Michel Pereira Wins: 82.723% / -480.0
+Kyle Daukaus Wins: 17.277% / 580.0
+
+Fight 10
+Yi Zha Wins: 42.255% / 240.0
+Westin Wilson Wins: 57.745% / -140.0
+
+Fight 11
+Xiao Long Wins: 40.229% / 250.0
+You Su-young Wins: 59.771% / -150.0
+
+Fight 12
+Uran Satybaldiev Wins: 52.485% / -110.0
+Diyar Nurgozhay Wins: 47.515% / 210.0
+
