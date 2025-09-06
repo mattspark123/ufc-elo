@@ -1,60 +1,61 @@
 Fight 1
-Nassourdine Imavov Wins: 56.398% / -130.0
-Caio Borralho Wins: 43.602% / 230.0
+Nassourdine Imavov Wins: 56.393% / -130.0
+Caio Borralho Wins: 43.607% / 230.0
 
 Fight 2
-Benoît Saint Denis Wins: 55.51% / -120.0
-Maurício Ruffy Wins: 44.49% / 220.0
+Benoît Saint Denis Wins: 55.507% / -120.0
+Maurício Ruffy Wins: 44.493% / 220.0
 
 Fight 3
+Modestas Bukauskas Wins: 58.577% / -140.0
+Paul Craig Wins: 41.423% / 240.0
+
+Fight 4
 Bolaji Oki Wins: 52.612% / -110.0
 Mason Jones Wins: 47.388% / 210.0
 
-Fight 4
-Modestas Bukauskas Wins: 58.581% / -140.0
-Paul Craig Wins: 41.419% / 240.0
-
 Fight 5
-Farès Ziam Wins: 68.946% / -220.0
-Kauê Fernandes Wins: 31.054% / 320.0
+Axel Sola is making their debut in the UFC
+Axel Sola Wins: 61.047% / -160.0
+Rhys McKee Wins: 38.953% / 260.0
 
 Fight 6
 Losene Keita is making their debut in the UFC
-Patrício Pitbull Wins: 54.604% / -120.0
-Losene Keita Wins: 45.396% / 220.0
+Patrício Pitbull Wins: 54.558% / -120.0
+Losene Keita Wins: 45.442% / 220.0
 
 Fight 7
 Robert Ruchała is making their debut in the UFC
-William Gomis Wins: 63.169% / -170.0
-Robert Ruchała Wins: 36.831% / 270.0
+William Gomis Wins: 63.122% / -170.0
+Robert Ruchała Wins: 36.878% / 270.0
 
 Fight 8
-Oumar Sy Wins: 58.772% / -140.0
-Brendson Ribeiro Wins: 41.228% / 240.0
+Oumar Sy Wins: 58.769% / -140.0
+Brendson Ribeiro Wins: 41.231% / 240.0
 
 Fight 9
 Ante Delija is making their debut in the UFC
-Marcin Tybura Wins: 74.488% / -290.0
-Ante Delija Wins: 25.512% / 390.0
+Marcin Tybura Wins: 74.445% / -290.0
+Ante Delija Wins: 25.555% / 390.0
 
 Fight 10
-Axel Sola is making their debut in the UFC
-Rhys McKee Wins: 38.99% / 260.0
-Axel Sola Wins: 61.01% / -160.0
+Harry Hardwick is making their debut in the UFC
+Harry Hardwick Wins: 45.814% / 220.0
+Kauê Fernandes Wins: 54.186% / -120.0
 
 Fight 11
-Sam Patterson Wins: 54.265% / -120.0
-Trey Waters Wins: 45.735% / 220.0
+Sam Patterson Wins: 54.263% / -120.0
+Trey Waters Wins: 45.737% / 220.0
 
 Fight 12
-Brad Tavares Wins: 68.991% / -220.0
-Robert Bryczek Wins: 31.009% / 320.0
+Brad Tavares Wins: 68.984% / -220.0
+Robert Bryczek Wins: 31.016% / 320.0
 
 Fight 13
-Andreas Gustafsson Wins: 31.961% / 310.0
-Rinat Fakhretdinov Wins: 68.039% / -210.0
+Andreas Gustafsson Wins: 31.969% / 310.0
+Rinat Fakhretdinov Wins: 68.031% / -210.0
 
 Fight 14
-Shauna Bannon Wins: 49.163% / 200.0
-Sam Hughes Wins: 50.837% / -100.0
+Shauna Bannon Wins: 49.164% / 200.0
+Sam Hughes Wins: 50.836% / -100.0
 
