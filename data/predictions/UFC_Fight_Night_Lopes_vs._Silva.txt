@@ -1,0 +1,61 @@
+Fight 1
+Diego Lopes Wins: 50.648% / -100.0
+Jean Silva Wins: 49.352% / 200.0
+
+Fight 2
+Rob Font Wins: 72.215% / -260.0
+David Martínez Wins: 27.785% / 360.0
+
+Fight 3
+Rafa García Wins: 42.99% / 230.0
+Jared Gordon Wins: 57.01% / -130.0
+
+Fight 4
+Kelvin Gastelum Wins: 70.218% / -240.0
+Dustin Stoltzfus Wins: 29.782% / 340.0
+
+Fight 5
+Alexander Hernandez Wins: 49.459% / 200.0
+Carlos Diego Ferreira Wins: 50.541% / -100.0
+
+Fight 6
+Santiago Luna is making their debut in the UFC
+Santiago Luna Wins: 53.152% / -110.0
+Quang Le Wins: 46.848% / 210.0
+
+Fight 7
+José Daniel Medina Wins: 54.421% / -120.0
+Duško Todorović Wins: 45.579% / 220.0
+
+Fight 8
+Claudio Puelles Wins: 55.207% / -120.0
+Joaquim Silva Wins: 44.793% / 220.0
+
+Fight 9
+Tatiana Suarez Wins: 52.682% / -110.0
+Amanda Lemos Wins: 47.318% / 210.0
+
+Fight 10
+Jesús Santos Aguilar Wins: 61.909% / -160.0
+Luis Gurule Wins: 38.091% / 260.0
+
+Fight 11
+Zachary Reese Wins: 56.774% / -130.0
+Sedriques Dumas Wins: 43.226% / 230.0
+
+Fight 12
+Alden Coria is making their debut in the UFC
+Alessandro Costa Wins: 47.953% / 210.0
+Alden Coria Wins: 52.047% / -110.0
+
+Fight 13
+Alice Pereira is making their debut in the UFC
+Montserrat Rendon Wins: 45.298% / 220.0
+Alice Pereira Wins: 54.702% / -120.0
+
+Fight 14
+Rodrigo Sezinando is making their debut in the UFC
+Daniil Donchenko is making their debut in the UFC
+Rodrigo Sezinando Wins: 50.0% / 50.0
+Daniil Donchenko Wins: 50.0% / 50.0
+
