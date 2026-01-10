@@ -1,52 +1,52 @@
 Fight 1
-Justin Gaethje Wins: 56.634% / -130.0
-Paddy Pimblett Wins: 43.366% / 230.0
+Justin Gaethje Wins: 56.626% / -130.0
+Paddy Pimblett Wins: 43.374% / 230.0
 
 Fight 2
-Kayla Harrison (c) Wins: 29.97% / 330.0
-Amanda Nunes Wins: 70.03% / -230.0
+Kayla Harrison (c) Wins: 29.978% / 330.0
+Amanda Nunes Wins: 70.022% / -230.0
 
 Fight 3
-Sean O'Malley Wins: 50.62% / -100.0
-Song Yadong Wins: 49.38% / 200.0
+Sean O'Malley Wins: 50.619% / -100.0
+Song Yadong Wins: 49.381% / 200.0
 
 Fight 4
-Waldo Cortes-Acosta Wins: 55.02% / -120.0
-Derrick Lewis Wins: 44.98% / 220.0
+Waldo Cortes-Acosta Wins: 55.016% / -120.0
+Derrick Lewis Wins: 44.984% / 220.0
 
 Fight 5
-Arnold Allen Wins: 59.032% / -140.0
-Jean Silva Wins: 40.968% / 240.0
+Arnold Allen Wins: 59.027% / -140.0
+Jean Silva Wins: 40.973% / 240.0
 
 Fight 6
-Michael Johnson Wins: 38.78% / 260.0
-Alexander Hernandez Wins: 61.22% / -160.0
+Michael Johnson Wins: 38.787% / 260.0
+Alexander Hernandez Wins: 61.213% / -160.0
 
 Fight 7
-Nikita Krylov Wins: 44.37% / 230.0
-Modestas Bukauskas Wins: 55.63% / -130.0
+Nikita Krylov Wins: 44.374% / 230.0
+Modestas Bukauskas Wins: 55.626% / -130.0
 
 Fight 8
-Umar Nurmagomedov Wins: 48.596% / 210.0
-Deiveson Figueiredo Wins: 51.404% / -110.0
+Umar Nurmagomedov Wins: 48.594% / 210.0
+Deiveson Figueiredo Wins: 51.406% / -110.0
 
 Fight 9
-Ateba Gautier Wins: 53.664% / -120.0
-Andrey Pulyaev Wins: 46.336% / 220.0
+Ateba Gautier Wins: 53.662% / -120.0
+Andrey Pulyaev Wins: 46.338% / 220.0
 
 Fight 10
-Alex Perez Wins: 42.685% / 230.0
-Charles Johnson Wins: 57.315% / -130.0
+Alex Perez Wins: 42.69% / 230.0
+Charles Johnson Wins: 57.31% / -130.0
 
 Fight 11
-Natália Silva Wins: 51.116% / -100.0
-Rose Namajunas Wins: 48.884% / 200.0
+Natália Silva Wins: 51.115% / -100.0
+Rose Namajunas Wins: 48.885% / 200.0
 
 Fight 12
-Josh Hokit Wins: 51.448% / -110.0
-Denzel Freeman Wins: 48.552% / 210.0
+Josh Hokit Wins: 51.447% / -110.0
+Denzel Freeman Wins: 48.553% / 210.0
 
 Fight 13
-Ricky Turcios Wins: 45.303% / 220.0
-Cameron Smotherman Wins: 54.697% / -120.0
+Ricky Turcios Wins: 45.307% / 220.0
+Cameron Smotherman Wins: 54.693% / -120.0
 
