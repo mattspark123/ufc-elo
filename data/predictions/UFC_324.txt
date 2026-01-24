@@ -1,52 +1,53 @@
 Fight 1
-Justin Gaethje Wins: 56.626% / -130.0
-Paddy Pimblett Wins: 43.374% / 230.0
+Justin Gaethje Wins: 56.611% / -130.0
+Paddy Pimblett Wins: 43.389% / 230.0
 
 Fight 2
-Kayla Harrison (c) Wins: 29.978% / 330.0
-Amanda Nunes Wins: 70.022% / -230.0
+Sean O'Malley Wins: 50.616% / -100.0
+Song Yadong Wins: 49.384% / 200.0
 
 Fight 3
-Sean O'Malley Wins: 50.619% / -100.0
-Song Yadong Wins: 49.381% / 200.0
+Waldo Cortes-Acosta Wins: 55.007% / -120.0
+Derrick Lewis Wins: 44.993% / 220.0
 
 Fight 4
-Waldo Cortes-Acosta Wins: 55.016% / -120.0
-Derrick Lewis Wins: 44.984% / 220.0
+Natália Silva Wins: 51.112% / -100.0
+Rose Namajunas Wins: 48.888% / 200.0
 
 Fight 5
-Arnold Allen Wins: 59.027% / -140.0
-Jean Silva Wins: 40.973% / 240.0
+Arnold Allen Wins: 59.016% / -140.0
+Jean Silva Wins: 40.984% / 240.0
 
 Fight 6
-Michael Johnson Wins: 38.787% / 260.0
-Alexander Hernandez Wins: 61.213% / -160.0
+Umar Nurmagomedov Wins: 48.59% / 210.0
+Deiveson Figueiredo Wins: 51.41% / -110.0
 
 Fight 7
-Nikita Krylov Wins: 44.374% / 230.0
-Modestas Bukauskas Wins: 55.626% / -130.0
+Ateba Gautier Wins: 53.656% / -120.0
+Andrey Pulyaev Wins: 46.344% / 220.0
 
 Fight 8
-Umar Nurmagomedov Wins: 48.594% / 210.0
-Deiveson Figueiredo Wins: 51.406% / -110.0
+Nikita Krylov Wins: 44.381% / 230.0
+Modestas Bukauskas Wins: 55.619% / -130.0
 
 Fight 9
-Ateba Gautier Wins: 53.662% / -120.0
-Andrey Pulyaev Wins: 46.338% / 220.0
+Alex Perez Wins: 42.7% / 230.0
+Charles Johnson Wins: 57.3% / -130.0
 
 Fight 10
-Alex Perez Wins: 42.69% / 230.0
-Charles Johnson Wins: 57.31% / -130.0
+Michael Johnson Wins: 38.801% / 260.0
+Alexander Hernandez Wins: 61.199% / -160.0
 
 Fight 11
-Natália Silva Wins: 51.115% / -100.0
-Rose Namajunas Wins: 48.885% / 200.0
+Josh Hokit Wins: 51.445% / -110.0
+Denzel Freeman Wins: 48.555% / 210.0
 
 Fight 12
-Josh Hokit Wins: 51.447% / -110.0
-Denzel Freeman Wins: 48.553% / 210.0
+Ricky Turcios Wins: 45.314% / 220.0
+Cameron Smotherman Wins: 54.686% / -120.0
 
 Fight 13
-Ricky Turcios Wins: 45.307% / 220.0
-Cameron Smotherman Wins: 54.693% / -120.0
+Ty Miller is making their debut in the UFC
+Adam Fugitt Wins: 44.163% / 230.0
+Ty Miller Wins: 55.837% / -130.0
 
